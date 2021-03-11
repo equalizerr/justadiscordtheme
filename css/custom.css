@@ -6,15 +6,6 @@
 	--channels-default: white;
 }
 
-
-.container-1r6BKw>.children-19S4PO>.iconWrapper-2OrFZ1>svg, .base-1x0h_U {
-    color: white;
-}
-
-::selection {
-    background-color: var(--Highlighted);
-}
-
 ::-webkit-input-placeholder, ::placeholder, body, button, input, code, select, textarea {
     font-family: var(--font) !important;
     line-height: 1.15;
@@ -64,20 +55,6 @@ body, .preview-2nSL_2, #user-settings.layer-3QrUeG {
     max-width: 100%;
 }
 
-.typeWindows-1za-n7 {
-    background: var(--TitleBG);
-    margin: 0;
-    z-index: 10;
-}
-
-.typeWindows-1za-n7:after {
-    text-align: -webkit-center;
-    padding: 0;
-    width: 100%;
-    content: var(--title);
-    margin: 0 auto;
-}
-
 .tabBarContainer-1s1u-z {
     margin-top: 25px;
     padding: 0;
@@ -121,22 +98,6 @@ body, .preview-2nSL_2, #user-settings.layer-3QrUeG {
     border-radius: .25em;
     text-decoration: none;
     color: #fff
-}
-.titleName-3-Lp3Z+.subtitle-2UIIw0 {
-    margin: 0;
-}
-
-.titleName-3-Lp3Z:after, .emptyChannelIcon-cc932w+.header-3uLluP:before {
-    margin-left: 65px;
-    content: var(--WelcomeMessage);
-    font-size: 1.35rem;
-    line-height: 1.35rem;
-    font-weight: 300;
-    display: block;
-}
-
-.titleName-3-Lp3Z:after {
-    margin-left: 0;
 }
 .standardSidebarView-3F1I7i #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button {
     background-color: var(--grey5);

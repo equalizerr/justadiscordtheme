@@ -22,7 +22,7 @@
 /* PRE-HOVER DIV to fix spam-open bugs */
 
 .membersWrap-2h-GB4:before {
-    width: 15px;
+    width: 20px;
     content: "";
 }
 
@@ -37,7 +37,7 @@
 /* MEMBERLIST CONTENT */
 
 .members-1998pB {
-    width: 220px;
+    width: 265px;
     /*overflow: hidden;*/
     border-radius: .5em 0 0 .5em;
     transition: all 500ms;
@@ -48,11 +48,11 @@
     -webkit-transform: translateX(-220px);
     transform: translateX(-220px);
     overflow: auto;
-    width: 220px!important;
+    width: 265px!important;
     transition: all 500ms;
     background-color: var(--darkgrey5)!important;
 }
 
 /* RESIZE CHAT CONTENT TO SHOW THE SCROLLBAR */
 
-.chatContent-a9vAAp { margin-right: 20px;}
+.chatContent-a9vAAp { margin-right: 2px;}

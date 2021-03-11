@@ -1,1 +1,18 @@
 /*YEET*/
+
+.membersWrap-2h-GB4, .membersWrap-2h-GB4 .scroller-2FKFPG {
+    width: 265px;
+    max-width: unset;
+    padding: 0;
+    margin-bottom: 0;
+}
+.members-1998pB, .members-1998pB>div {
+    background-color: transparent;
+}
+.thin-1ybCId::-webkit-scrollbar,
+.sidebar-2K8pFh .scroller-1JbKMe::-webkit-scrollbar, .sidebar-2K8pFh .scroller-2wx7Hm::-webkit-scrollbar, .members-1998pB::-webkit-scrollbar {
+    width: 0;
+}
+.members-1998pB {
+    width: 100%;
+}

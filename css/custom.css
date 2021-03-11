@@ -370,3 +370,17 @@
     text-decoration: none;
     color: #fff
 }
+.statusItem-33LqPf svg {
+    width: 20px;
+    height: 20px;
+    border-radius: .25em;
+}
+
+.statusItem-33LqPf .description-2L932D {
+    font-size: 0;
+    line-height: 0;
+}
+
+.statusItem-33LqPf .status-1fhblQ {
+    text-align: center;
+}

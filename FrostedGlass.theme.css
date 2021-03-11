@@ -33,6 +33,19 @@
   --background-image-size: cover; /* Size of the background image | DEFAUT: cover | OPTIONS: cover, contain */
   --background-image-position: center; /* Position of background image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
 
+	/*  MENUS COLORS  */
+	--grey: rgb(77, 70, 85);
+	--grey5: rgba(77, 70, 85, .5);
+	--darkgrey: rgb(18, 18, 18);
+	--darkgrey5: rgba(18, 18, 18, .75);
+	--TitleBG: var(--darkgrey5);
+	--ChatBox: var(--darkgrey5);
+	--Sidebar: var(--darkgrey5);
+	--SendMessage: var(--darkgrey);
+	--HoverMessage: var(--darkgrey5);
+	--Highlighted: var(--grey5);
+	--ActiveBox: rgb(235 235 235);
+
   /* Brightness variables */
   --serverlist-brightness: 1; /* Brightness for serverlist | 0 - 1 (decimals allowed) | DEFAULT: 0.8 */
   --left-brightness: 0.4; /* Channels and DM list brightness | 0 - 1 (decimals allowed) | DEFAULT: 0.8 */

@@ -29,8 +29,8 @@
 /* MOVE THE MEMBERLIST DIV TO THE RIGHT */
 
 .membersWrap-2h-GB4 {
-    -webkit-transform: translateX(-220px);
-    transform: translateX(-220px);
+    -webkit-transform: translateX(220px);
+    transform: translateX(220px);
     position: absolute;
 }
 
@@ -68,4 +68,4 @@
 
 /* RESIZE CHAT CONTENT TO SHOW THE SCROLLBAR */
 
-.chatContent-a9vAAp { margin-right: 2px;}
+.chatContent-a9vAAp { margin-right: 200px;}

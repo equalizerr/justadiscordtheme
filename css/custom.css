@@ -186,44 +186,8 @@
     width: 265px;
     padding: 0;
 }
-.container-PNkimc[aria-label*="BetterDiscord"] .container-2Rl01u {
-    min-height: 135px;
-}
-
-.container-PNkimc[aria-label*="BetterDiscord"]::after {
-    content: "BandageBD";
-    position: absolute;
-    font-size: 16px;
-    line-height: 90px;
-    border-radius: 0 5px 5px 0;
-    text-align: center;
-    height: 135px;
-    top: 0;
-    left: 0;
-    right: 0;
-    background: center / cover no-repeat url("https://goldenlys.github.io/ThemeGen/img/BD-Header.png") !important;
-}
-
-.container-PNkimc[aria-label*="BetterDiscord"] .container-2Rl01u::after {
-    content: "";
-    position: absolute;
-    border-radius: 5px;
-    text-align: center;
-    height: 20px;
-    width: 20px;
-    top: 15px;
-    left: 6.5px;
-    z-index: 1;
-    background: center / cover no-repeat url("https://goldenlys.github.io/ThemeGen/img/BD-Logo.png") !important;
-}
-
 .container-PNkimc[aria-label*="BetterDiscord"] .guildIconContainer-E1JUVt {
     display: none;
-}
-
-#bd-pub-button, .svg-1X37T1, .wrapper-25eVIn, .childWrapper-anI2G9, .tutorialContainer-1v44GL>.listItem-2P_4kh>.listItemWrapper-3X98Pc>div {
-    width: var(--ServerSize);
-    height: var(--ServerSize);
 }
 
 .activityIcon-c4ew_N {
@@ -238,27 +202,6 @@
     border-radius: .1875rem;
 }
 
-.wrapper-2jXpOf.modeSelected-346R90 .children-Bmpf2Q div[role="button"], .wrapper-2jXpOf:hover .children-Bmpf2Q div[role="button"] {
-    height: 30px;
-}
-
-.wrapper-2jXpOf.modeSelected-346R90 .children-Bmpf2Q>.iconItem-1-bXkn:nth-child(1) div[role="button"]::before, .wrapper-2jXpOf:hover .children-Bmpf2Q>.iconItem-1-bXkn:nth-child(1) div[role="button"]::before {
-    content: "🔗";
-    font-size: 16px;
-    line-height: 15px;
-    position: relative;
-    top: 7.5px;
-    left: 0px;
-}
-
-.wrapper-2jXpOf.modeSelected-346R90 .children-Bmpf2Q>.iconItem-1-bXkn:nth-child(2)::before, .wrapper-2jXpOf:hover .children-Bmpf2Q>.iconItem-1-bXkn:nth-child(2)::before {
-    content: var(--Options);
-    font-size: 16px;
-    line-height: 15px;
-    position: relative;
-    top: 7.5px;
-    left: 0px;
-}
 .role-2irmRk:not(:hover):not(:first-child) {
     border-top: 1px solid transparent !important;
     border-bottom: 1px solid transparent !important;
@@ -357,16 +300,4 @@
 }
 .listItem-2P_4kh.bd-guild.bd-selected>div.blobContainer-239gwq>div>svg {
     border-radius: .5em;
-}
-
-.wrapper-3WhCwL {
-    padding: 2px;
-    transition: 150ms ease all;
-    background: var(--darkgrey5);
-}
-
-.wrapper-3WhCwL:hover {
-    border-radius: .25em;
-    text-decoration: none;
-    color: #fff
 }

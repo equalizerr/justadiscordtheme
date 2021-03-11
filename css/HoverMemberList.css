@@ -37,7 +37,7 @@
 
 .members-1998pB {
     width: 265px;
-    overflow: hidden;
+    /*overflow: hidden;*/
     border-radius: .5em 0 0 .5em;
     transition: all 500ms;
     -webkit-transition: all 500ms;

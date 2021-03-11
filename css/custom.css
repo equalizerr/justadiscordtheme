@@ -26,3 +26,56 @@
     line-height: 16px;
     text-transform: uppercase;
 }
+.sidebar-2K8pFh {
+    background: var(--Sidebar) !important;
+}
+.platform-osx .bg-h5JY_x, .platform-osx .standardSidebarView-3F1I7i, .platform-win .bg-h5JY_x, .platform-win .standardSidebarView-3F1I7i, .platform-web .bg-h5JY_x, .platform-web .standardSidebarView-3F1I7i,
+.platform-web .app-1q1i1E {
+    top: 0px;
+}
+
+.platform-osx .wrapper-1Rf91z {
+    margin-top: 0px;
+}
+
+.platform-web .scroller-2TZvBN {
+    padding: 0;
+}
+
+.scroller-305q3I {
+    background-color: transparent;
+}
+
+.sidebarScrollable-1qPI87+.content-1rPSz4 {
+    max-width: 100%;
+}
+
+.typeWindows-1za-n7 {
+    background: var(--TitleBG);
+    margin: 0;
+    z-index: 10;
+}
+
+.typeWindows-1za-n7:after {
+    text-align: -webkit-center;
+    padding: 0;
+    width: 100%;
+    content: var(--title);
+    margin: 0 auto;
+}
+.sidebar-2K8pFh .privateChannels-1nO12o header {
+    text-align: center;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 16px;
+    text-transform: uppercase;
+    opacity: 1;
+    margin: 0 10px;
+    margin-top: -10px;
+    margin-bottom: 10px
+}
+
+.sidebar-2K8pFh {
+    border-radius: .5em 0 0;
+    width: 265px
+}

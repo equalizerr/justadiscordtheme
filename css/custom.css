@@ -10,42 +10,8 @@
     background: transparent !important;
     position: fixed;
 }
-
-body, .preview-2nSL_2, #user-settings.layer-3QrUeG {
-    background: center / cover no-repeat var(--background) !important;
-}
-
-.sidebar-2K8pFh {
-    background: var(--Sidebar) !important;
-}
 .wrapper-35wsBm, .wrapper-3D2qGf, .childWrapper-anI2G9, .container-3ayLPN, .descriptionBox-1EKQKL {
     box-shadow: none;
     background: var(--darkgrey5) !important;
     border-radius: .25em !important;
-}
-
-.platform-web .scroller-2TZvBN {
-    padding: 0;
-}
-
-.scroller-305q3I {
-    background-color: transparent;
-}
-
-.sidebarScrollable-1qPI87+.content-1rPSz4 {
-    max-width: 100%;
-}
-
-.profileBadges-2vWUYb {
-    margin: 0;
-    display: inline-flex;
-}
-
-.listItem-2P_4kh.bd-guild.bd-selected>div.blobContainer-239gwq>div>svg {
-    border-radius: .5em;
-}
-
-.standardSidebarView-3F1I7i #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button {
-    background-color: var(--grey5);
-    border-color: white !important;
 }

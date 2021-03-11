@@ -29,10 +29,23 @@
 /* MOVE THE MEMBERLIST DIV TO THE RIGHT */
 
 .membersWrap-2h-GB4 {
-    -webkit-transform: translateX(220px);
-    transform: translateX(220px);
+    -webkit-transform: translateX(-220px);
+    transform: translateX(-220px);
     position: absolute;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* MEMBERLIST CONTENT */
 

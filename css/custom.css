@@ -1,3 +1,9 @@
+:root {
+	--Close: "❌";
+    --Hide: "➖";
+    --Resize: "➕";
+}
+
 .theme-dark {
 	--channels-default: white;
 }

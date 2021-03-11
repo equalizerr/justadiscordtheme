@@ -19,10 +19,12 @@
 @import url("https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css");
 
 /* Custom Plugins*/
+
 @import url("https://equalizerr.github.io/justadiscordtheme/css/HoverMemberList.css");
+@import url("https://equalizerr.github.io/justadiscordtheme/css/custom.css");
 
 :root {
-  --title: "Just a Discord theme";
+  --title: "Just a Discord Theme";
   --popout-modal-blur: 10px; /* Blur intensity of --popout-modal-image | Must end in px | DEFAULT: 5px */
   
   /* Home image variables */
@@ -60,7 +62,11 @@
     Now just follow this tutorial: https://imgur.com/a/CNbw7xC
   */
   --font: 'Bahnschrift';
-  --Close: "❤";
+  
+  /*Custom buttons*/
+  --Close: "❌";
+  --Hide: "➖";
+  --Resize: "➕";
 
   /* Do not touch */
   --update-notice-1: none;

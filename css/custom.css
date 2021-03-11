@@ -171,3 +171,128 @@
     border-radius: 5px;
     box-shadow: none;
 }
+
+.sidebarRegion-VFTUkN, .sidebarRegionScroller-3MXcoP, .sidebarRegion-VFTUkN .scrollerWrap-2lJEkd {
+    max-width: 265px;
+    flex: inherit;
+}
+
+.sidebarRegionScroller-3MXcoP, .contentRegion-3nDuYy {
+    background: var(--darkgrey5);
+}
+.sidebar-CFHs9e {
+    width: 265px;
+    padding: 0;
+}
+.container-PNkimc[aria-label*="BetterDiscord"] .container-2Rl01u {
+    min-height: 135px;
+}
+
+.container-PNkimc[aria-label*="BetterDiscord"]::after {
+    content: "BandageBD";
+    position: absolute;
+    font-size: 16px;
+    line-height: 90px;
+    border-radius: 0 5px 5px 0;
+    text-align: center;
+    height: 135px;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: center / cover no-repeat url("https://goldenlys.github.io/ThemeGen/img/BD-Header.png") !important;
+}
+
+.container-PNkimc[aria-label*="BetterDiscord"] .container-2Rl01u::after {
+    content: "";
+    position: absolute;
+    border-radius: 5px;
+    text-align: center;
+    height: 20px;
+    width: 20px;
+    top: 15px;
+    left: 6.5px;
+    z-index: 1;
+    background: center / cover no-repeat url("https://goldenlys.github.io/ThemeGen/img/BD-Logo.png") !important;
+}
+
+.container-PNkimc[aria-label*="BetterDiscord"] .guildIconContainer-E1JUVt {
+    display: none;
+}
+
+#bd-pub-button, .svg-1X37T1, .wrapper-25eVIn, .childWrapper-anI2G9, .tutorialContainer-1v44GL>.listItem-2P_4kh>.listItemWrapper-3X98Pc>div {
+    width: var(--ServerSize);
+    height: var(--ServerSize);
+}
+
+.activityIcon-c4ew_N {
+    width: 0 !important;
+    height: 0 !important;
+}
+
+.rem-2m9HGf.botTag-2WPJ74 {
+    height: unset;
+    padding: 0 5px;
+    margin: 3px 3px 0 3px;
+    border-radius: .1875rem;
+}
+
+.wrapper-2jXpOf.modeSelected-346R90 .children-Bmpf2Q div[role="button"], .wrapper-2jXpOf:hover .children-Bmpf2Q div[role="button"] {
+    height: 30px;
+}
+
+.wrapper-2jXpOf.modeSelected-346R90 .children-Bmpf2Q>.iconItem-1-bXkn:nth-child(1) div[role="button"]::before, .wrapper-2jXpOf:hover .children-Bmpf2Q>.iconItem-1-bXkn:nth-child(1) div[role="button"]::before {
+    content: "🔗";
+    font-size: 16px;
+    line-height: 15px;
+    position: relative;
+    top: 7.5px;
+    left: 0px;
+}
+
+.wrapper-2jXpOf.modeSelected-346R90 .children-Bmpf2Q>.iconItem-1-bXkn:nth-child(2)::before, .wrapper-2jXpOf:hover .children-Bmpf2Q>.iconItem-1-bXkn:nth-child(2)::before {
+    content: var(--Options);
+    font-size: 16px;
+    line-height: 15px;
+    position: relative;
+    top: 7.5px;
+    left: 0px;
+}
+.role-2irmRk:not(:hover):not(:first-child) {
+    border-top: 1px solid transparent !important;
+    border-bottom: 1px solid transparent !important;
+    border-right: 1px solid transparent !important;
+    border-left: 5px solid;
+    min-width: 30%;
+}
+
+.role-2irmRk.actionButton-VzECiy {
+    border-left: 1px !important;
+}
+
+.role-2irmRk:hover {
+    border: 1px solid;
+    border-left: 5px solid;
+    min-width: 30%;
+}
+
+.role-2irmRk.actionButton-VzECiy:after {
+    content: "➕";
+    position: relative;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    line-height: 20px;
+    font-size: 14px;
+}
+
+.member-1q7VfX .roleWrapper-1Hde_V .role-2irmRk {
+    border-top: 1px solid transparent !important;
+    border-bottom: 1px solid transparent !important;
+    border-right: 1px solid transparent !important;
+    border-left: 5px solid;
+}
+
+.members-1998pB, .members-1998pB>div {
+    background-color: transparent;
+}

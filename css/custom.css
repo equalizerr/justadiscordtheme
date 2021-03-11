@@ -6,11 +6,6 @@
 	--channels-default: white;
 }
 
-::-webkit-input-placeholder, ::placeholder, body, button, input, code, select, textarea {
-    font-family: var(--font) !important;
-    line-height: 1.15;
-    color: white !important;
-}
 .categoryWrapper-UZ5YNj, .appMount-3lHmkl, .container-16j22k {
     background: transparent !important;
     position: fixed;
@@ -20,22 +15,8 @@ body, .preview-2nSL_2, #user-settings.layer-3QrUeG {
     background: center / cover no-repeat var(--background) !important;
 }
 
-.header-ykumBX, .messageGroupWrapper-o-Zw7G, .inset-3sAvek, .autocompleteArrow-Zxoy9H, .autocompleteHeaderBackground-30T70q, .cardPrimary-1Hv-to, .container-1D34oG, .topSectionNormal-2-vo2m, .emptyCard-1RJw8n {
-    background: var(--darkgrey5) !important;
-}
-
-.container-3Mxszk, .chat-3bRxxu, .peopleList-3c4jOR, .container-1D34oG {
-    border-radius: 5px 0 0 0;
-    background: var(--ChatBox) !important;
-}
-
 .sidebar-2K8pFh {
     background: var(--Sidebar) !important;
-}
-.iconBackgroundTierNone-3MPhMJ, .iconBackgroundTierOne-2LhaMB, .iconBackgroundTierThree-3qw3JX, .iconBackgroundTierTwo-3bCmdc {
-    width: 20px;
-    height: 20px;
-    border-radius: .25em;
 }
 .wrapper-35wsBm, .wrapper-3D2qGf, .childWrapper-anI2G9, .container-3ayLPN, .descriptionBox-1EKQKL {
     box-shadow: none;
@@ -55,30 +36,6 @@ body, .preview-2nSL_2, #user-settings.layer-3QrUeG {
     max-width: 100%;
 }
 
-.tabBarContainer-1s1u-z {
-    margin-top: 25px;
-    padding: 0;
-}
-
-.tabBarItem-1b8RUP {
-    font-weight: bold;
-    font-size: 16px;
-}
-
-.tabBarItem-1b8RUP[style*="color: rgba(255, 255, 255, 0.4);"] {
-    color: white !important;
-}
-
-.tabBarItem-1b8RUP[style*="color: rgb(255, 255, 255);"], .top-28JiJ- .item-PXvHYJ {
-    border: none !important;
-    margin: 5px 20px;
-}
-
-.activity-1ythUs, .tabBarContainer-1s1u-z, .headerInfo-30uryT {
-    display: block;
-    text-align: -webkit-center;
-}
-
 .profileBadges-2vWUYb {
     margin: 0;
     display: inline-flex;
@@ -88,17 +45,6 @@ body, .preview-2nSL_2, #user-settings.layer-3QrUeG {
     border-radius: .5em;
 }
 
-.wrapper-3WhCwL {
-    padding: 2px;
-    transition: 150ms ease all;
-    background: var(--darkgrey5);
-}
-
-.wrapper-3WhCwL:hover {
-    border-radius: .25em;
-    text-decoration: none;
-    color: #fff
-}
 .standardSidebarView-3F1I7i #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button {
     background-color: var(--grey5);
     border-color: white !important;

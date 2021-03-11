@@ -2,7 +2,7 @@
  * @name Frosted Glass
  * @author Gibbu#1211 edited by prod1gy#6331
  * @version 2.0.2
- * @description Display your picture of choice with adjusta blur and brightness. Dark theme is required.
+ * @description Display your picture of choice with adjust blur and brightness. Dark theme is required.
  * @invite ZHthyCw
  * @donate https://paypal.me/IanRGibson
  * @authorId 174868361040232448
@@ -32,19 +32,6 @@
   --background-image-blur: 1px; /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
   --background-image-size: cover; /* Size of the background image | DEFAUT: cover | OPTIONS: cover, contain */
   --background-image-position: center; /* Position of background image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
-
-	/*  MENUS COLORS  */
-	--grey: rgb(77, 70, 85);
-	--grey5: rgba(77, 70, 85, .5);
-	--darkgrey: rgb(18, 18, 18);
-	--darkgrey5: rgba(18, 18, 18, .75);
-	--TitleBG: var(--darkgrey5);
-	--ChatBox: var(--darkgrey5);
-	--Sidebar: var(--darkgrey5);
-	--SendMessage: var(--darkgrey);
-	--HoverMessage: var(--darkgrey5);
-	--Highlighted: var(--grey5);
-	--ActiveBox: rgb(235 235 235);
 
   /* Brightness variables */
   --serverlist-brightness: 1; /* Brightness for serverlist | 0 - 1 (decimals allowed) | DEFAULT: 0.8 */
